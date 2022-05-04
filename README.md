@@ -2,7 +2,7 @@
 This is a classification/ranking problem for my portfolio. The objective is to detect and sort health insurance customers that are more likely to buy a vehicle insurance, so the company can offer them this service and increase its income. To solve this problem we will build a machine learning model to rank the customers by the probability to accept and buy the vehicle insurance.
 
 
-<img src="insurance.PNG" alt="logo" style="zoom:45% ;" />
+<img src="insurance.png" alt="logo" style="zoom:45% ;" />
 
 
 # 1.0 - Business Problem (Fictitious Scenario)
